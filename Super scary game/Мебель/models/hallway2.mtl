@@ -1,0 +1,167 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__24 (3) to come 
+#
+newmtl arch49_plastic_red_3
+Ka  0.0 0.0 0.0
+Kd  0.1 0.0 0.0
+Ks  0.8 0.8 0.8
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_glass_5
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  0.5
+Ns  10.0
+illum 2
+#
+newmtl arch49_gold
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.8 0.7 0.4
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__24 done 
+#
+# Multi/Sub Material__187740 (4) to come 
+#
+newmtl arch49_leather_black
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_fabric_black
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_gold
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.8 0.7 0.4
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_leather_ivory
+Ka  0.0 0.0 0.0
+Kd  0.8 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__187740 done 
+#
+# Multi/Sub Material__11 (2) to come 
+#
+newmtl arch49_fabric_checker_2
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_plastic_black
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.8 0.8 0.8
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__11 done 
+#
+# Multi/Sub Material__53 (5) to come 
+#
+newmtl arch49_leather_ivory
+Ka  0.0 0.0 0.0
+Kd  0.8 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_gum
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_gum_ivory
+Ka  0.0 0.0 0.0
+Kd  0.8 0.7 0.7
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_leather_ivory_2
+Ka  0.0 0.0 0.0
+Kd  0.8 0.6 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl arch49_fabric_white
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__53 done 
+#
+newmtl Material__187649
+Ka  0.0 0.0 0.0
+Kd  0.2 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__187650 (2) to come 
+#
+newmtl Material__187649
+Ka  0.0 0.0 0.0
+Kd  0.2 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl zerkalo
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__187650 done 
+#
+newmtl chrome
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# EOF
